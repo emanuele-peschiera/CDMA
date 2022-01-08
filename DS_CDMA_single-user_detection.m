@@ -12,7 +12,7 @@ clc
 clear
 close all
 
-%% Parameters initialization\n
+%% Parameters initialization
 Q       = 80;        	% spreading factor
 K       = 4;         	% number of users
 
