@@ -12,7 +12,8 @@ clc
 clear
 close all
 
-%% Parameters initializationQ       = 80;        	% spreading factor
+%% Parameters initialization
+Q       = 80;        	% spreading factor
 K       = 4;         	% number of users
 
 EbN0    = 0:10;      	% energy per bit to noise power spectral density ratio in dB
