@@ -6,7 +6,7 @@
 
 % [1] L. Hanzo et al., "Single and multi-carrier DS-CDMA: multi-user 
 % detection, space-time spreading, synchronisation, networking, and 
-% standards," Wiley-IEEE Press, 2004
+% standards," Wiley-IEEE Press, 2004.
 
 clc
 clear
